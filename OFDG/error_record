@@ -1,0 +1,20 @@
+P
+Mesh Grid: 50 x 50
+L1 Error (Rho): 3.489448e-06
+L2 Error (Rho): 4.306834e-06
+Mesh Grid: 100 x 100
+L1 Error (Rho): 4.363157e-07
+L2 Error (Rho): 5.388485e-07
+Q
+L1 Error (Rho): 2.562817e-06
+L2 Error (Rho): 2.903013e-06
+
+
+
+================ error analysis ================
+Mesh Grid: 50 x 50
+L1 Error (Rho): 3.756881e-06
+L2 Error (Rho): 4.706967e-06
+Mesh Grid: 100 x 100
+L1 Error (Rho): 4.498251e-07
+L2 Error (Rho): 5.590131e-07

@@ -1,0 +1,1 @@
+nvcc -O3 -arch=sm_80 -std=c++17 mach2000_para.cu -o mach2000_para.exe

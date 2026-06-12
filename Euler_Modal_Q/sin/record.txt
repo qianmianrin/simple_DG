@@ -1,0 +1,31 @@
+50
+L1 Error (Rho): 1.100770e-03
+L2 Error (Rho): 1.778167e-03
+
+100
+L1 Error (Rho): 2.903907e-04
+L2 Error (Rho): 5.523111e-04
+
+200
+L1 Error (Rho): 7.530725e-05
+L2 Error (Rho): 1.813403e-04
+
+50
+L1 Error (Rho): 1.060305e-03
+L2 Error (Rho): 1.739471e-03
+
+Mesh Grid: 100 x 100
+L1 Error (Rho): 2.753540e-04
+L2 Error (Rho): 5.445051e-04
+
+50
+L1 Error (Rho): 2.562817e-06
+L2 Error (Rho): 2.903013e-06
+
+100
+L1 Error (Rho): 3.270776e-07
+L2 Error (Rho): 3.694677e-07
+
+Mesh Grid: 50 x 50
+L1 Error (Rho): 2.562817e-06
+L2 Error (Rho): 2.903013e-06

@@ -1,0 +1,3 @@
+nvcc -O3 -arch=sm_80 -std=c++17 test1.cu -o test1.exe
+
+nvcc -O3 -arch=sm_80 -std=c++17 rk4_test.cu -o rk4_test.exe

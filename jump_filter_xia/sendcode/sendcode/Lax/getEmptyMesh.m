@@ -1,0 +1,73 @@
+function msh = getEmptyMesh
+
+msh.dm = [];
+msh.N = [];
+msh.type = [];
+msh.maxLevel = 0;
+msh.bndTypes = [];
+msh.nElems = 0;
+msh.nFaces = 0;
+msh.nEdges = [];
+msh.nNodes = [];
+msh.nLElems = 0;
+msh.nLFaces = 0;
+msh.nIntLFaces = 0;
+msh.nBndLFaces = 0;
+msh.LElems = [];
+msh.LFaces = [];
+msh.intLFaces = [];
+msh.bndLFaces = [];
+msh.nGPs = [];
+msh.massMatInv = [];
+
+msh.elemCenter = [];
+msh.elemLength = [];
+msh.elemSize = [];
+msh.elemDiam = [];
+msh.elemNodes = [];
+msh.elemEdges = [];
+msh.elemFaces = [];
+msh.elemLevel = [];
+msh.elemLID = [];
+msh.elemParent = [];
+msh.elemChildren = [];
+msh.elemGPx = [];
+msh.elemGPy = [];
+msh.elemGPz = [];
+msh.elemJac = [];
+msh.elemJxix = [];
+msh.elemJxiy = [];
+msh.elemJxiz = [];
+msh.elemJetax = [];
+msh.elemJetay = [];
+msh.elemJetaz = [];
+msh.elemJzetax = [];
+msh.elemJzetay = [];
+msh.elemJzetaz = [];
+msh.elemIsCurved = [];
+
+msh.faceNormalx = [];
+msh.faceNormaly = [];
+msh.faceNormalz = [];
+msh.faceSize = [];
+msh.faceType = [];
+msh.faceNodes = [];
+msh.faceEdges = [];
+msh.faceElems = [];
+msh.faceNums = [];
+msh.faceR2L = [];
+msh.faceLevel = [];
+msh.faceLID = [];
+msh.faceParent = [];
+msh.faceChildren = [];
+msh.faceJac = [];
+msh.faceIsCurved = [];
+
+msh.edgeType = [];
+msh.edgeNodes = [];
+msh.edgeNElems = [];
+msh.edgeParent = [];
+msh.edgeChildren = [];
+msh.nodeCoor = [];
+
+end

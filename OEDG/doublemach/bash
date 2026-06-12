@@ -1,0 +1,1 @@
+nvcc -O3 -arch=sm_80 -std=c++17 doublemach_para.cu -o doublemach_para.exe

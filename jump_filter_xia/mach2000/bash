@@ -1,0 +1,5 @@
+nvcc -O3 -arch=sm_80 -std=c++17 solver.cu -o solver.exe
+
+nvcc -O3 -arch=sm_80 -std=c++17 test.cu -o test.exe
+
+nvcc -O3 -arch=sm_80 -std=c++17 rk4_test.cu -o rk4_test.exe
